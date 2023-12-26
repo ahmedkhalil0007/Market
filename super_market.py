@@ -1,4 +1,5 @@
 # This was my first project when I was 7 years old
+# This project was made to manage super market
 import os
 import tkinter
 from tkinter import *
