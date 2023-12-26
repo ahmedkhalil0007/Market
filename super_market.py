@@ -1,3 +1,4 @@
+# This was my first project when I was 7 years old
 import os
 import tkinter
 from tkinter import *
